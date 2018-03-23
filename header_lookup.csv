@@ -1,0 +1,21 @@
+source,target,description
+Page total likes,page_total_likes,page total likes
+Type,post_type,"Link, Photo, Status, Video"
+Category,category,"1: action (special offers and
+contests) 2: product (direct advertisement and explicit brand content) and 3: inspiration (non-explicit brand related content)"
+Post Month,month,month
+Post Weekday,weekday,day
+Post Hour,hour,hour
+Paid,paid,paid
+Lifetime Post Total Reach,reach_users,user saw the post unique
+Lifetime Post Total Impressions,impressions,number of displays
+Lifetime Engaged Users,engaged_users,user clicked the post unique
+Lifetime Post Consumers,consumers,user clicked the post
+Lifetime Post Consumptions,consumptions,clicks on post
+Lifetime Post Impressions by people who have liked your Page,impressions_liked,number of displays on users who liked the page
+Lifetime Post reach by people who like your Page,reach_liked,unique number of displays on users who liked the page
+Lifetime People who have liked your Page and engaged with your post,engaged_liked,unique number of clicked on post by users who liked the page
+comment,comment,comment
+like,like,like
+share,share,share
+Total Interactions,total_interactions,total interactions
