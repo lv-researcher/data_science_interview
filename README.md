@@ -11,8 +11,8 @@ The notebooks have been developed in Python 3
 
 Additional requirements
 
-Keras==2.1.4
-pandas==0.20.3
-scikit-learn==0.19.1
-scipy==1.0.0
-seaborn==0.8.1
+* Keras==2.1.4
+* pandas==0.20.3
+* scikit-learn==0.19.1
+* scipy==1.0.0
+* seaborn==0.8.1
