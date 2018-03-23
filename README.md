@@ -1,10 +1,10 @@
 # data_science_interview
 
-Please find one notebook with the answers for each section.
+Please find an .ipynb notebook with the code and answers for the 3 sections in the data_science_interview.pdf
 
-Additionally, there is an html copy of the notebook so you can view the output in your browser if don't have jupyter notebooks
+Additionally, there is an html copy of each notebook so you can view the output in your browser if you are not familiar with jupyter notebooks
 
-And for section 3 there is also a slide pack pdf.
+And for section 3 there is also a slide pack pdf
 
 
 The notebooks have been developed in Python 3
